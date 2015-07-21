@@ -1,8 +1,6 @@
-AR LIFX Controller
-========
+Photo Shuffle AR
+=================
 
-An augmented reality controller to control LIFX lightbulbs using awe.js, the browser and IFTTT.
+Photo shuffling using augmented reality http://hamzeen.github.io.
 
-If you make something neat from this code, please do let me know! I'm on Twitter at @thatpatrickguy, or you can find me at http://www.patrickcatanzariti.com.
-
-PatCat
+Hamzeen. H.
